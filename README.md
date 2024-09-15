@@ -4,6 +4,8 @@ Network Design Project for Hospital Management
 # Project Overview
 This project entails the design of a sophisticated network infrastructure for a hospital, aiming to enhance both internal and external communication efficiency. The network design is tailored to address the specific needs of various hospital areas, ensuring security, functionality, and scalability.
 
+![Diagram](https://github.com/woliul/networkdesign/blob/main/Asset%201.png)
+
 # Project Objectives
 1. To develop a secure and scalable network system for different hospital departments.
 2. To ensure reliable and efficient communication for both public access and internal operations.
